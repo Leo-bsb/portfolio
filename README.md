@@ -8,6 +8,12 @@
 
 ---
 
+
+#### Acess the site: https://portfolio-leonardo-braga.streamlit.app/
+
+
+---
+
 ## About Me
 
 Data Science and AI enthusiast with practical experience in large-scale data migration, integration (SAP, Pentaho, BBDD), and building applications powered by Large Language Models. Oracle Certified Professional in Generative AI & Data Science with strong skills in pipeline development, rapid prototyping, conversational AI, and data-driven products.
